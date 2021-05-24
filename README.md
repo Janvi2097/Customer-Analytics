@@ -1,4 +1,4 @@
-# Retail Analysis with Walmart Data
+# Customer Analytics
 
 1. [Project Motivation](#ProjectMotivation)
 2. [Installation](#installation)
